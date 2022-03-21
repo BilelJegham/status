@@ -40,19 +40,19 @@
     "url": "https://www.aile-editions.com/",
     "icon": "https://favicons.githubusercontent.com/www.aile-editions.com",
     "slug": "aile-editions",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 3776,
-    "timeDay": 2831,
-    "timeWeek": 3776,
-    "timeMonth": 3776,
-    "timeYear": 3776,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 4635,
+    "timeDay": 5722,
+    "timeWeek": 4635,
+    "timeMonth": 4635,
+    "timeYear": 4635,
     "dailyMinutesDown": {
-      "2022-03-21": 18
+      "2022-03-21": 24
     }
   }
 ]
