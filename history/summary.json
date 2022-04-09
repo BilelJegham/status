@@ -40,17 +40,17 @@
     "url": "https://www.aile-editions.com/",
     "icon": "https://favicons.githubusercontent.com/www.aile-editions.com",
     "slug": "aile-editions",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3872,
-    "timeDay": 3366,
-    "timeWeek": 4069,
-    "timeMonth": 3872,
-    "timeYear": 3872,
+    "time": 3920,
+    "timeDay": 4373,
+    "timeWeek": 4200,
+    "timeMonth": 3920,
+    "timeYear": 3920,
     "dailyMinutesDown": {}
   }
 ]
